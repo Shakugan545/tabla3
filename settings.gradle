@@ -1,0 +1,2 @@
+rootProject.name='tabla2'
+include ':app'
